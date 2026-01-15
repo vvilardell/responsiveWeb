@@ -1,0 +1,22 @@
+llms.txt
+
+This file lists the most useful entry points for LLMs.
+Replace example.com with your real domain.
+
+[Documentation]
+- https://example.com/docs
+- https://example.com/api
+
+[API]
+- Base URL: https://example.com/api/v1
+- OpenAPI: https://example.com/api/openapi.json
+
+[Examples]
+- https://example.com/api/examples
+
+[Policies]
+- https://example.com/robots.txt
+- https://example.com/privacy
+
+[Contact]
+- https://example.com/contact
